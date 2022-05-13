@@ -1,0 +1,13 @@
+﻿Fast track python assignment_4
+1.Explain the differences between the cassendra and typical databases.?
+Ans: Difference between Cassandra and RDBMSCassandra: Cassandra is a high-performance and highly scalable distributed NOSQL database management system. Cassandra deals with unstructured data and handles a high volume of incoming data velocity. In Cassandra data is written in many locations also data come from many locations this row represents a unit of replication and the column represents a unit of storage. Difference between Cassandra and RDBMS
+Cassandra: Cassandra is a high-performance and highly scalable distributed NOSQL database management system. Cassandra deals with unstructured data and handles a high volume of incoming data velocity. In Cassandra data is written in many locations also data come from many locations this row represents a unit of replication and the column represents a unit of storage.
+RDBMS: Relational Database Management System (RDBMS) is a Database management system or software that is designed for relational databases and uses Structured Query Language (SQL) for querying and maintaining the database. It deals with structured data and handles moderate incoming data velocity. In RDBMS mainly data is written in one location also data come from one/few locations and a row represents a single record column that represents an attribute.
+Difference between Cassandra and RDBMS:
+S.No. CASSANDRA RDBMS 1. system. RDBMS is a Database management system or software which is designed for relational databases. 2.
+Cassandra is a high performance and highly scalable distributed NOSQL database management
+Cassandra is a NOSQL database. RDBMS uses SQL for querying and maintaining the database. It deals with unstructured data. It deals with structured data. It has a flexible schema. It has fixed schema. Cassandra has peer-to-peer architecture with no single point of failure. RDBMS has master-
+5. slave core architecture means a single point of failure. 6. data velocity. 7. there are various data source means data come from one/few location. 8. Database Management System (RDBMS) is a Database management system or software that is designed for relational databases and uses Structured Query Language (SQL) for querying and maintaining the database. It deals with structured data and handles moderate incoming data velocity. In RDBMS mainly
+Cassandra handles high volume incoming data velocity. RDBMS handles moderate incoming
+In RDBMS there is limited data source means data come from many locations.
+It supports simple transactions. It supports complex and nested transactio RDBMS: Relational
